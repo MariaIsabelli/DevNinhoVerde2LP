@@ -25,7 +25,7 @@ scripts.js: Arquivo JavaScript para funcionalidades interativas, como validaçã
 
 /assets: Diretório contendo todos os recursos estáticos, como imagens, ícones, etc.
 
-##Como Executar o Projeto:
+## Como Executar o Projeto:
 Clone o repositório para o seu ambiente local.
 
 Abra o arquivo index.html em qualquer navegador da web.

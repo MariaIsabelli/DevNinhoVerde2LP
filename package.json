@@ -1,0 +1,14 @@
+{
+  "name": "devninhoverde",
+  "version": "1.0.0",
+  "description": "NinhoVerde2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Isabelli Pinto",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.3.6"
+  }
+}

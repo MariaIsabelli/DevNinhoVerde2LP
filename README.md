@@ -1,6 +1,8 @@
 # DevNinhoVerde2LP
 ## Landing Page para Empresa de Loteamento
 
+ <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaIsabelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 Este projeto consiste em uma Landing Page desenvolvida utilizando HTML, CSS, JavaScript e Tailwind CSS, projetada especificamente para uma empresa de loteamento. O objetivo principal desta página é melhorar o SEO (Search Engine Optimization) da empresa, proporcionando uma presença online mais robusta e uma melhor classificação nos resultados de pesquisa.
 
 ## Funcionalidades Principais:
